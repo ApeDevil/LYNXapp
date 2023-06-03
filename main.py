@@ -31,19 +31,7 @@ from events import left_events_dict, right_events_dict
 from functions import resource_path
 from user import user
 
-# with open(resource_path(f'user/layouts/major/new_major.pickle'), 'wb') as f:
-#     pickle.dump(left_events_dict, f)  # main_left - empty
-#     pickle.dump(right_events_dict, f)  # main_right - empty
-#     pickle.dump(left_events_dict, f)  # sub_left - empty
-#     pickle.dump(right_events_dict, f)  # sub_right - empty
-#     pickle.dump(__version__, f)
-#
-# with open(resource_path(f'user/layouts/minor/new_minor.pickle'), 'wb') as f:
-#     pickle.dump(left_events_dict, f)  # main_left - empty
-#     pickle.dump(right_events_dict, f)  # main_right - empty
-#     pickle.dump(left_events_dict, f)  # sub_left - empty
-#     pickle.dump(right_events_dict, f)  # sub_right - empty
-#     pickle.dump(__version__, f)
+
 
 
 class StartWindow(Screen):

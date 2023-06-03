@@ -1,7 +1,22 @@
+# LYNXsetup (the cats)
+
+The cat is a computer input device with different modules. Together with the software it's a versatile and flexible system that accommodates the individual needs of any user. LYNX aims to create equipment that enhances the workflow by reducing unnecessary movements. 
+
+The complete project documentation is at: https://www.lynxware.org/
+
+![Alt Text](images/setup.webp)
+
+
+
 # LYNXapp
 
-## Prerequisites
+This software is for key assignment and layout creation for the LYNXsetup
 
+![Alt Text](images/lynxapp.png)
+
+
+
+## Prerequisites
 
 Before running this application, make sure you have the following packages installed:
 
